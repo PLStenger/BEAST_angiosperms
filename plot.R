@@ -12,8 +12,8 @@ library(treeio)
 setwd("~/Documents/INRAE_PaleoLab/03_angiosperms_origins/05_tree_affter_beast")
 target <- "Nymphaea_colorata"
 
-# sed 's/\[&[^]]*\]//g' /Users/stengerpierre-louis/Documents/INRAE_PaleoLab/03_angiosperms_origins/05_tree_affter_beast/Murat_parameters_cleaned_calibrated_all_prior-SpeciesTreeAlignment_filtered.trees > /Users/stengerpierre-louis/Documents/INRAE_PaleoLab/03_angiosperms_origins/05_tree_affter_beast/cleaned_trees_lognormal.trees
-# sed -i '' '/Translate/,/;/d' /Users/stengerpierre-louis/Documents/INRAE_PaleoLab/03_angiosperms_origins/05_tree_affter_beast/cleaned_trees_lognormal.trees
+# sed 's/\[&[^]]*\]//g' 03_angiosperms_origins/05_tree_affter_beast/Murat_parameters_cleaned_calibrated_all_prior-SpeciesTreeAlignment_filtered.trees > 03_angiosperms_origins/05_tree_affter_beast/cleaned_trees_lognormal.trees
+# sed -i '' '/Translate/,/;/d' 03_angiosperms_origins/05_tree_affter_beast/cleaned_trees_lognormal.trees
 
 # ================== 1) LECTURE & TRADUCTION DES ARBRES (POST-BEAST) ==================
 # Arbres de la distribution (densitree)
