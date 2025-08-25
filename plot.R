@@ -290,7 +290,7 @@ print(p)
 
 
 ################################################################################################
-# Pour conniatre les noeufs et retrouver les bornes HPD
+# Pour conniatre les noeuds et retrouver les bornes HPD
 ################################################################################################
 
 
